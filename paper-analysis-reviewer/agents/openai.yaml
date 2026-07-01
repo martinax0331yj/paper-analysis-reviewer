@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Analysis Reviewer"
+  short_description: "Reviewer-style deep academic paper analysis"
+  default_prompt: "Use $paper-analysis-reviewer to analyze this academic paper with reviewer-style reasoning."
